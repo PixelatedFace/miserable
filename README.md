@@ -1,5 +1,5 @@
-how to run:
-create a .env file with your token (TOKEN="<your bot's token>")
+how to run: <br>
+create a .env file with your token (TOKEN="<your bot's token>") <br><br>
 
-make sure you have node 20.14.0
+make sure you have node 20.14.0 <br>
 run (node index.js)
